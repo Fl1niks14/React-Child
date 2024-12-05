@@ -1,4 +1,7 @@
+### Подготовка
+
+
 ```shell
-cd my-prodject
+cd my-project
 npm i 
 ```
